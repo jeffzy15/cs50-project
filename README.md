@@ -8,5 +8,5 @@ Using HTTPS:
 Using SSH:
 ``
 
-Using GitHub Desktop:
-``
+Using GitHub Desktop: <br>
+`gh repo clone jeffzy15/cs50.py`
