@@ -24,3 +24,6 @@ Press the left and right arrows keys on your keyboard to move the spaceship. <br
 Press the spacebar to shoot the aliens <br>
 
 Get a score of **30** before the aliens invade you to **WIN**! <br>
+
+### Disclaimer
+You are allowed to modify the project's source code to add new features to make it a project of your own. 
