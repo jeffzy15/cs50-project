@@ -14,8 +14,7 @@ Using GitHub Desktop: <br>
 How to play
 Check that you have the latest version of Python for the best gameplay
 
-Clone this project and install the dependencies listed in [Requirements]https://github.com/jeffzy15/cs50.py/master/requirements.txt
-
+Clone this project and install the dependencies listed in [Requirements]https://github.com/jeffzy15/cs50.py/blob/master/requirements.txt
 To run the program, run `python app.py`
 
 Rules and Instructions
