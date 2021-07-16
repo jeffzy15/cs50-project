@@ -5,12 +5,6 @@
 Using HTTPS: <br>
 `https://github.com/jeffzy15/cs50.py.git`
 
-Using SSH: <br>
-`git@github.com:jeffzy15/cs50.py.git`
-
-Using GitHub Desktop: <br>
-`gh repo clone jeffzy15/cs50.py`
-
 ### How to play
 Check that you have the latest version of Python for the best gameplay <br>
 
