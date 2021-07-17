@@ -2,8 +2,7 @@
 
 ### Obtaining the source code
 
-Using HTTPS: <br>
-`https://github.com/jeffzy15/cs50.py.git`
+`git clone https://github.com/jeffzy15/cs50.py.git`
 
 ### How to play
 Check that you have the latest version of Python for the best gameplay <br>
